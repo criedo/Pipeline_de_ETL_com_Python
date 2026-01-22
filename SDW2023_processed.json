@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "news": {
+            "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+            "description": "Alice, investir é garantir seu futuro! Comece hoje e veja seu dinheiro crescer com sabedoria."
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "news": {
+            "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+            "description": "Bob, investir é seu caminho para a segurança financeira e realização de sonhos. Comece hoje!"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Clara",
+        "news": {
+            "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+            "description": "Clara, investir é o caminho para realizar seus sonhos e garantir um futuro financeiro seguro!"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Pyterson",
+        "news": {
+            "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+            "description": "Investir é garantir seu futuro, Pyterson! Faça seu dinheiro trabalhar por você e realize seus son..."
+        }
+    },
+    {
+        "id": 5,
+        "name": "Pip",
+        "news": {
+            "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+            "description": "\"Invista no seu futuro, Pip! Cada centavo aplicado hoje é um passo para suas conquistas amanhã.\""
+        }
+    },
+    {
+        "id": 6,
+        "name": "Pep",
+        "news": {
+            "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+            "description": "\"Pep, investir é garantir seu futuro! Comece hoje e veja seu dinheiro crescer com segurança.\""
+        }
+    }
+]
